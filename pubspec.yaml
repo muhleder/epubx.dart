@@ -10,7 +10,7 @@ environment:
 dependencies:
   archive: ^4.0.0
   quiver: ^3.0.1+1
-  xml: ^7.1.0
+  xml: ^7.0.0
   image: ^4.0.8
   collection: ^1.15.0
 
